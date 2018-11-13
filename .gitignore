@@ -1,5 +1,20 @@
+.idea/**
+**/.idea/*
+**/*.iml
+*.iml
+*/build/
+**/target/
+**/dist/
+*/bin/**
+.gradle/
+.project
+
+*.odt
+*.odt#
+
 # Compiled class file
 *.class
+*/classes/**
 
 # Log file
 *.log
